@@ -1,4 +1,6 @@
 <?FONTXT VERSION="1.0"?>
+<? utf-8 ?>
+<? import main/kakes.*json ?>
 ᔑ⍒ꕯ → Olá
 ᔑꕯꕤ → Água
 ᔑᒲꕤ → Amor
