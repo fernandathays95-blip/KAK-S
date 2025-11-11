@@ -1,0 +1,54 @@
+{
+  "numeros_kakes": [
+    {
+      "numero": 1,
+      "escrita_kakes": "∴ᒷꕯ",
+      "pronuncia": "Uroa"
+    },
+    {
+      "numero": 2,
+      "escrita_kakes": "∴ᓭᒷ",
+      "pronuncia": "Urobe"
+    },
+    {
+      "numero": 3,
+      "escrita_kakes": "⍑ᒷ⍒ꕯ",
+      "pronuncia": "Tresa"
+    },
+    {
+      "numero": 4,
+      "escrita_kakes": "⍑ᒷ⍑ᒷ",
+      "pronuncia": "Tete"
+    },
+    {
+      "numero": 5,
+      "escrita_kakes": "⍑ᒷ⋮ᒷ",
+      "pronuncia": "Teve"
+    },
+    {
+      "numero": 6,
+      "escrita_kakes": "☰ᒷ⍒",
+      "pronuncia": "Xesa"
+    },
+    {
+      "numero": 7,
+      "escrita_kakes": "⍑ᒷ☰",
+      "pronuncia": "Texa"
+    },
+    {
+      "numero": 8,
+      "escrita_kakes": "⍑ꕯ⍒",
+      "pronuncia": "Tosa"
+    },
+    {
+      "numero": 9,
+      "escrita_kakes": "ꕤᒷ⍒",
+      "pronuncia": "Nesa"
+    },
+    {
+      "numero": 10,
+      "escrita_kakes": "⍑ᒷ∴",
+      "pronuncia": "Teu"
+    }
+  ]
+}
