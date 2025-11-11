@@ -1,0 +1,65 @@
+<?FONTXT VERSION="1.0"?>
+ᔑ⍒ꕯ → Olá
+ᔑꕯꕤ → Água
+ᔑᒲꕤ → Amor
+ᓭꕯ⍒ → Bom
+ᓭᒷᓿ → Belo
+ᓵꕯᒲ → Casa
+ᓵᒷ⍒ꕯ → Céu
+↸ᒷꕤ → Dia
+↸ᒷ⍑ → Deus
+ᒷᓿꕯ → Eu
+ᒷ⍒ꕯ → Ele / Ela
+⎓ᒷꕯ → Fogo
+⎓ᔑᒲ → Força
+⎔ꕤ⍑ → Grande
+⎔ᒷᓿ → Gente / Pessoa
+ᒲꕤ⍑ꕯ → Amigo
+ᒲꕯᓵ → Mão
+ᒲꕯᓵꕯ → Mundo
+⍒ᒷꕤ → Sol
+⍒ꕯᓭ → Som
+⍒ᒷᓿꕯ → Saber
+⍑ᒷꕯ → Terra
+⍑ꕤᒲ → Tempo
+⍑ᒷ⍒ꕯ → Três
+ꕤᒷ⍒ → Noite  
+ꕤᒷᓿ → Nome  
+ꕤᔑᒷ → Novo  
+ꕯᒷꕤ → Olho  
+ꕯᓭᒷ → Ouro  
+ꕯ⍑ᒷ → Ontem  
+ᓲᒷꕯ → Paz  
+ᓲᔑ⍑ → Pedra  
+ᓲᒷ⍒ꕯ → Poder  
+⍊ᒷꕯ → Que / O que  
+⍊ᓭᒷ → Quem  
+⍊ꕯᒲ → Quando  
+⚍ᒷꕯ → Rei  
+⚍ᒷᓿ → Rio  
+⚍⍒ꕯ → Raio  
+⍒ᒷ⍑ꕯ → Sombras  
+⍒ᒲᒷ → Sangue  
+⍒ᒷᓿ → Saber  
+⍑ᒷꕯ → Terra  
+⍑ꕯᒲ → Tempo  
+⍑ᒷ⍒ꕯ → Três  
+⍑ᒷ⍑ → Templo  
+∴ᒷꕯ → Um  
+∴ᓭᒷ → Universo  
+∴ꕯᒲ → Umidade  
+⋮ᒷꕯ → Vida  
+⋮ꕯᒲ → Vento  
+⋮ᒷ⍒ → Verdade  
+⌖ᒷꕯ → Palavra (símbolo de “fala”)  
+⌖ᒷᓿ → Mente  
+⌖ᔑ⍒ → Linguagem  
+☰ᒷꕯ → Luz  
+☰ᒷ⍒ → Sombras (em sentido oposto)  
+☰ꕯᒲ → Energia  
+ꔮᒷꕯ → Céu noturno  
+ꔮᒷ⍑ → Estrela  
+ꔮᒲᒷ → Chuva  
+ꘉᒷꕯ → Fim  
+ꘉᒲꕯ → Zero  
+ꘉᔑᒲ → Silêncio  
