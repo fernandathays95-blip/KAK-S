@@ -104,3 +104,42 @@ Nesa
 10
 ⍑ᒷ∴
 Teu
+ᒲꕤᓵ → Cão  
+ᓵᒷᓿ → Gato  
+⍑ꕯᒲ → Pássaro  
+ᓭꕯᒲ → Peixe  
+⚍ᒷꕯᒲ → Cavalo  
+⎔ᒷᓿ → Cobra  
+ꕤᒷ⍑ → Lobo  
+⍑ᒷꕯ → Terra  
+⍒ᒷꕤ → Sol  
+ᒷᓿꕯꕯ → Lua  
+ꔮᒷ⍑ → Estrela  
+⎓ᒷꕯ → Fogo  
+ᔑꕯꕤ → Água  
+⋮ꕯᒲ → Vento  
+ᒲꕯ⍑ → Montanha  
+⍒ᒷꕯ → Céu  
+ᔑᒲꕤ → Amor  
+⍒ᒷᒲ → Alegria  
+⎓ᒷ⍒ → Força  
+ᒷᒲᒷ → Esperança  
+⍒ᒷ⍑ → Medo  
+⍑ᒷᒷ → Tristeza  
+⚍ᒷᓿ → Raiva  
+ᓵꕯᒲ → Casa  
+⍑ᒷᓿ → Templo  
+ᓲᒷꕯ → Pedra  
+⎓ᒷᓿ → Faca  
+⋮ᒷꕯ → Vida (símbolo sagrado)  
+ᓭᒷᓿ → Espada  
+⎔ꕯᒲ → Escudo  
+ᓲꕯᒷ → Porta  
+ᒷᓿꕯᓭ → Livro  
+⎔ᒷ⍒ꕯ → Máquina  
+⋮ᒷ⍒ → Energia  
+⍑ᒷᓿꕯ → Rede / Internet  
+ᓭᒷꕯᒷ → Computador  
+⎓ᒷꕯᓭ → Fone  
+⍒ᒷᓿᒷ → Luz  
+⍑ᒷ⍒ᒲ → Tempo digital  
