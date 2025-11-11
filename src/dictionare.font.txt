@@ -63,3 +63,42 @@
 ꘉᒷꕯ → Fim  
 ꘉᒲꕯ → Zero  
 ꘉᔑᒲ → Silêncio  
+ᒷᓿꕯ → Eu  
+ᒷ⍒ꕯ → Ele / Ela  
+ᒷᒲꕯ → Nós  
+ᒷ⍑ꕯ → Tu / Você  
+ᒷ⍒ᒲ → Eles / Elas
+ᒷᓿꕯ⍒ → Meu / Minha  
+ᒷ⍑ꕯ⍒ → Teu / Tua  
+ᒷ⍒ꕯ⍒ → Seu / Sua  
+ᒷᒲꕯ⍒ → Nosso / Nossa
+1
+∴ᒷꕯ
+Uroa
+2
+∴ᓭᒷ
+Urobe
+3
+⍑ᒷ⍒ꕯ
+Tresa
+4
+⍑ᒷ⍑ᒷ
+Tete
+5
+⍑ᒷ⋮ᒷ
+Teve
+6
+☰ᒷ⍒
+Xesa
+7
+⍑ᒷ☰
+Texa
+8
+⍑ꕯ⍒
+Tosa
+9
+ꕤᒷ⍒
+Nesa
+10
+⍑ᒷ∴
+Teu
